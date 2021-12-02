@@ -1,0 +1,9 @@
+c:\users\hp\onedrive\documents\visual studio 2015\Projects\P4_3_1204014\P4_3_1204014\bin\Debug\P4_3_1204014.exe.config
+C:\Users\HP\OneDrive\Documents\Visual Studio 2015\Projects\P4_3_1204014\P4_3_1204014\bin\Debug\P4_3_1204014.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2015\Projects\P4_3_1204014\P4_3_1204014\bin\Debug\P4_3_1204014.pdb
+C:\Users\HP\OneDrive\Documents\Visual Studio 2015\Projects\P4_3_1204014\P4_3_1204014\obj\Debug\P4_3_1204014.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\Visual Studio 2015\Projects\P4_3_1204014\P4_3_1204014\obj\Debug\P4_3_1204014.Form1.resources
+C:\Users\HP\OneDrive\Documents\Visual Studio 2015\Projects\P4_3_1204014\P4_3_1204014\obj\Debug\P4_3_1204014.Properties.Resources.resources
+C:\Users\HP\OneDrive\Documents\Visual Studio 2015\Projects\P4_3_1204014\P4_3_1204014\obj\Debug\P4_3_1204014.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Documents\Visual Studio 2015\Projects\P4_3_1204014\P4_3_1204014\obj\Debug\P4_3_1204014.exe
+C:\Users\HP\OneDrive\Documents\Visual Studio 2015\Projects\P4_3_1204014\P4_3_1204014\obj\Debug\P4_3_1204014.pdb
